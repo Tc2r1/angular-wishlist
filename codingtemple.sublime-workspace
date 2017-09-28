@@ -1,0 +1,1549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"my",
+				"myCtrl\t(index.html)"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"In",
+				"IEnumerator\t(GameController.cs)"
+			],
+			[
+				"AudioS",
+				"AudioSource"
+			],
+			[
+				"spawn",
+				"spawnWait"
+			],
+			[
+				"haz",
+				"hazardCount"
+			],
+			[
+				"spaw",
+				"spawnRotation"
+			],
+			[
+				"Qu",
+				"Quaternion"
+			],
+			[
+				"OnTri",
+				"Collider.OnTriggerEnter(other)"
+			],
+			[
+				"insideUnit",
+				"Random.insideUnitSphere"
+			],
+			[
+				"angularVe",
+				"Rigidbody.angularVelocity"
+			],
+			[
+				"time",
+				"Time.time"
+			],
+			[
+				"shot",
+				"shotSpawn"
+			],
+			[
+				"Get",
+				"GetComponent\t(PlayerController.cs)"
+			],
+			[
+				"v",
+				"velocity"
+			],
+			[
+				"Quaternion",
+				"Quaternion.Euler(euler)"
+			],
+			[
+				"move",
+				"movement"
+			],
+			[
+				"mo",
+				"moveVertical"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"GetAx",
+				"Input.GetAxis(axisName)"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"Scene",
+				"SceneManager"
+			],
+			[
+				"restart",
+				"restartDelay"
+			],
+			[
+				"lo",
+				"loadedLevel\tint { get; }"
+			],
+			[
+				"Load",
+				"LoadLevel(int index)\tvoid"
+			],
+			[
+				"Spere",
+				"SphereCollider\tSphereCollider"
+			],
+			[
+				"Play",
+				"PlayerHealth"
+			],
+			[
+				"player",
+				"playerHealth"
+			],
+			[
+				"Find",
+				"FindGameObjectWithTag\t(EnemyMovement.cs)"
+			],
+			[
+				"pla",
+				"playerHealth\t(EnemyMovement.cs)"
+			],
+			[
+				"t",
+				"traget"
+			],
+			[
+				"Anima",
+				"Animating(float h, float v)\tvoid"
+			],
+			[
+				"Turn",
+				"Turning()\tvoid"
+			],
+			[
+				"new",
+				"newRotation"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"floor",
+				"floorMask"
+			],
+			[
+				"flo",
+				"floormask"
+			],
+			[
+				"question",
+				"questionOne"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"next",
+				"nextInt\t(NameAgeSalary.java)"
+			],
+			[
+				"println",
+				"println()\tfunc"
+			],
+			[
+				"pw",
+				"$pwd〔variable〕"
+			],
+			[
+				"user",
+				"$username〔variable〕"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"stateme",
+				"$statement〔variable〕"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"e",
+				"el\telse"
+			],
+			[
+				"el",
+				"elif\telse if"
+			],
+			[
+				"map",
+				"MapID"
+			],
+			[
+				"isauto",
+				"is_autobuy"
+			],
+			[
+				"minion",
+				"minionplacekeep"
+			],
+			[
+				"near",
+				"nearEnemy"
+			],
+			[
+				"smi",
+				"SmiteSlot"
+			],
+			[
+				"Aut",
+				"AutoIgnite"
+			],
+			[
+				"a",
+				"autoClutch"
+			],
+			[
+				"spel",
+				"SpellReady"
+			],
+			[
+				"Follow",
+				"FollowDist"
+			],
+			[
+				"close",
+				"closeenemy"
+			],
+			[
+				"attack",
+				"Attack"
+			],
+			[
+				"ally",
+				"allyrange"
+			],
+			[
+				"lea",
+				"LEASH_RANG"
+			],
+			[
+				"leas",
+				"LEASH_CC"
+			],
+			[
+				"tempf",
+				"tempFollwer"
+			],
+			[
+				"temp",
+				"tempFollwer"
+			],
+			[
+				"summ",
+				"SUMMONER_1"
+			],
+			[
+				"relic",
+				"relicTimer"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"nil",
+				"nil"
+			],
+			[
+				"personal",
+				"personalOff"
+			],
+			[
+				"com",
+				"compareOff"
+			],
+			[
+				"print",
+				"PrintChat"
+			],
+			[
+				"prin",
+				"PrintChat"
+			],
+			[
+				"first",
+				"firstBought"
+			],
+			[
+				"Near",
+				"NearEnemy"
+			],
+			[
+				"enemy",
+				"enemyTurret"
+			],
+			[
+				"retu",
+				"RETURN"
+			],
+			[
+				"follow",
+				"follower"
+			],
+			[
+				"foll",
+				"FollowOn"
+			],
+			[
+				"Follo",
+				"FollowDist"
+			],
+			[
+				"tele",
+				"teletarget"
+			],
+			[
+				"ba",
+				"backOffZ"
+			],
+			[
+				"backO",
+				"backOffX"
+			],
+			[
+				"Mega",
+				"MegaDST_Coopmode"
+			],
+			[
+				"play",
+				"playchampname"
+			],
+			[
+				"TSN",
+				"TnS_Slot"
+			],
+			[
+				"TnS_",
+				"TnS_Slot"
+			],
+			[
+				"T",
+				"TnS_Slot"
+			],
+			[
+				"tn",
+				"TnS_READY"
+			],
+			[
+				"las",
+				"LastMessage"
+			],
+			[
+				"safetow",
+				"safeTower"
+			],
+			[
+				"Draw",
+				"DrawFollowing"
+			],
+			[
+				"bac",
+				"backOffZ"
+			],
+			[
+				"max",
+				"maxHealth"
+			],
+			[
+				"run",
+				"runOnce1"
+			],
+			[
+				"should",
+				"shouldRecall"
+			],
+			[
+				"Temp",
+				"TempFix"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"name",
+				"charName"
+			],
+			[
+				"Close",
+				"closeAlly"
+			],
+			[
+				"get",
+				"GetDistance"
+			],
+			[
+				"back",
+				"backOffX"
+			],
+			[
+				"Smite",
+				"smiteSlot"
+			],
+			[
+				"follo",
+				"follower"
+			],
+			[
+				"Recall",
+				"RecallNow"
+			],
+			[
+				"under",
+				"UnderTurret"
+			],
+			[
+				"recalling",
+				"recallingNow"
+			],
+			[
+				"safe",
+				"safeTower"
+			],
+			[
+				"recall",
+				"RecallNow"
+			],
+			[
+				"chas",
+				"ChasePartners"
+			],
+			[
+				"clo",
+				"closeEnemy"
+			],
+			[
+				"runFro",
+				"runFromX"
+			],
+			[
+				"too",
+				"toocool2rule"
+			],
+			[
+				"Too",
+				"toocool2rule"
+			],
+			[
+				"real",
+				"RealRandom"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"send",
+				"SendChat"
+			],
+			[
+				"farm",
+				"farmMode"
+			],
+			[
+				"equ",
+				"equinoxTowerDive"
+			],
+			[
+				"starcall",
+				"starcallTowerDive"
+			],
+			[
+				"Percent",
+				"PercentofMana"
+			],
+			[
+				"wardpl",
+				"wardPlaced"
+			],
+			[
+				"ward",
+				"wardPlaced"
+			],
+			[
+				"ak",
+				"akwards"
+			],
+			[
+				"Allys",
+				"allySpawn"
+			],
+			[
+				"TMP",
+				"TempRNG"
+			],
+			[
+				"TEA",
+				"TEAM_BLUE"
+			],
+			[
+				"target",
+				"targetAttack"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 778,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n\t// save before running commands\n\t\"save_first\": true\n\n\t// if present, use this command instead of plain \"git\"\n\t// e.g. \"/Users/kemayo/bin/git\" or \"C:\\bin\\git.exe\"\n\t,\"git_command\": false\n\n\t// if present, use this command instead of plain \"gitk\"\n\t// e.g. \"/Users/kemayo/bin/gitk\" or \"C:\\bin\\gitk.exe\"\n\t,\"gitk_command\": false\n\n\t// point this the installation location of git-flow\n\t,\"git_flow_command\": \"/usr/local/bin/git-flow\"\n\n\t// use the panel for diff output, rather than a new scratch window (new tab)\n\t,\"diff_panel\": false\n\n\t// If you'd rather have your status command open files instead of show you a\n\t// diff, set this to true.  You can still do `Git: Status` followed by\n\t// 'Git: Diff Current File' to get a file diff\n\t,\"status_opens_file\": false\n\n\t// Use --verbose flag for commit messages\n\t,\"verbose_commits\": true\n\n\t// How many commit messages to store in the history. Set to 0 to disable.\n\t,\"history_size\": 5\n\n\t// Show git flow commands\n\t,\"flow\": false\n\t\n\t// By default git flow release and hotfix will tag a version. Set to true to disable.\n\t,\"flow-notag\": false\n\n\t// Annotations default to being on for all files. Can be slow in some cases.\n\t,\"annotations\": false\n\n\t// statusbar\n\t,\"statusbar_branch\": true\n\t// Symbols for quick git status in status bar\n\t,\"statusbar_status\": true\n\t,\"statusbar_status_symbols\" : {\"modified\": \"≠\", \"added\": \"+\", \"deleted\": \"×\", \"untracked\": \"?\", \"conflicts\": \"‼\", \"renamed\":\"R\", \"copied\":\"C\", \"clean\": \"✓\", \"separator\": \" \"}\n\n\t// e.g. \"Packages/Git/syntax/Git Commit Message.tmLanguage\"\n\t,\"diff_syntax\": \"Packages/Diff/Diff.tmLanguage\"\n\n\t// Rulers for commit view\n\t,\"commit_rulers\": [70]\n\n\t// Watch for gitignore changes?\n\t,\"gitignore_sync\": false\n}\n",
+			"file": "/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 1696,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"plugin",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"plugi",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"packageIn",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: ad",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"java",
+				"Javatar: Calls..."
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 542.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"\t\t\tInstantiate(shot, shotSpawn.position, shotSpawn.rotation); // as GameObject;",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Tc2r/Documents/School/Self/Angular/codingtemple/app.js",
+		"/C/Users/Tc2r/Documents/School/Self/Angular/codingtemple/style.css",
+		"/C/Users/Tc2r/Documents/School/Self/Angular/codingtemple/index.html",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/auto_close/Default (Windows).sublime-keymap",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/Mover.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/DestroyByContact.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/RandomRotator.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/DestroyByBoundary.cs",
+		"/C/Users/Tc2r/Desktop/javatesting.js",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/GameController.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Scripts/DestroyByTime.cs",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Prefabs.meta",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Models/prop_asteroid_01.FBX",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Materials/part_jet_core_mat.mat",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Materials/part_shockwave_mat.mat",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/Materials/vehicle_enemyShip_metal_mat.mat",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Library/InspectorExpandedItems.asset",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/ProjectSettings/InputManager.asset",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/TutorialInfo/Icons.meta",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/_Complete-Game/Scripts/Done_PlayerController.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/PlayerController.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/space pewpew.sublime-project",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/space pewpew/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/Nightmares/Nightmares.sublime-project",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/UnityC#.sublime-settings",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/Nightmares/Assets/Scripts/Camera.meta",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/Nightmares/Assets/Scripts/Camera/CameraFollow.cs",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/Nightmares/Assets/Scripts/Player.meta",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Function Name Display/Function Name Display.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Javatar/README.md",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Javatar/Javatar.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/User/Function Name Display.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Tc2r/Desktop/bookmarks-2017-07-22.json",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/MainMenuTut/Assets/Menu.cs",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/MainMenuTut/MainMenuTut.sublime-project",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/MainMenuTut/MainMenuTut.userprefs",
+		"/C/Users/Tc2r/Documents/School/Self/Unity/MainMenuTut/Assembly-CSharp.csproj",
+		"/C/Users/Tc2r/Desktop/Old Firefox Data/urq409qp.default-1477543394109/addons.json",
+		"/C/Users/Tc2r/My Projects/Android Apps/Decrypt App/decompile/Search ALL Pro for Craigslist/com/app/clsearchnationwideapp/fragment/WebFragment.java",
+		"/C/Users/Tc2r/My Projects/Android Apps/Decrypt App/decompile/Search ALL Pro for Craigslist/com/app/clsearchnationwideapp/Config.java",
+		"/C/Users/Tc2r/My Projects/Android Apps/Decrypt App/decompile/Search ALL Pro for Craigslist/res/values/strings.xml",
+		"/C/Users/Tc2r/Desktop/Fbfriendslist/app/src/main/res/layout/activity_friends_list.xml",
+		"/C/Users/Tc2r/Desktop/Fbfriendslist/app/src/main/res/layout/content_friends_list.xml",
+		"/C/Users/Tc2r/Desktop/status/classes-dex2jar/com/firex/lateststatus2017/EngCuteSMS$2.class",
+		"/C/Users/Tc2r/Desktop/AnnoResume- Programming.doc",
+		"/C/Users/Tc2r/AppData/Local/Temp/Rar$DIa0.277/IntentResult.java",
+		"/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Installed Packages/Dayle Rees Color Schemes.sublime-package",
+		"/C/Users/Tc2r/AppData/Local/Temp/Rar$DIa0.694/IntentIntegrator.java",
+		"/C/Users/Tc2r/Downloads/YMCA of Metro Chicago Financial Assistance Application NEW 2014.docx",
+		"/C/Users/Tc2r/AppData/Local/Temp/YMCA of Metro Chicago Financial Assistance Application NEW 2014.docx",
+		"/C/Users/Tc2r/Desktop/ZoomIn.xml",
+		"/C/Users/Tc2r/Documents/School/Self/Java/bydoing/ModulusAnimation.java",
+		"/C/Users/Tc2r/Documents/School/Self/Java/bydoing/Quiz.java",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/#Current.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/ArtistPostTweet.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/CFImgPostTweet.iim",
+		"/C/Users/Tc2r/AppData/Roaming/Mozilla/Firefox/Profiles/gxd9g2e6.default-1351891007947/logins.json",
+		"/C/Users/Tc2r/.AndroidStudio2.2/config/plugins/availables.xml",
+		"/C/Users/Tc2r/Desktop/passwords.xml",
+		"/C/Users/Tc2r/Desktop/FinalPost.docx",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/CFImagePost.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/CommentFImg.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/Tweet.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/FBArtistPoster.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/TwitterFollowNearby.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/FBMessageFriend.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/FBAppPoster.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/FBComplexTheoryPoster.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/compFixPost2.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/compFixPost1.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/domPost.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/MyMacroLogger.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/POFmeetme.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/POFRefresher.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/Get Facebook Friends.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/Twitter Follower.js",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/FBMotivationalPoster.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/TwitterFollowerGetter.iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/PoF Refresher..iim",
+		"/C/Users/Tc2r/Documents/iMacros/Macros/Tc2r/Twitter Follower!.js",
+		"/C/Users/Tc2r/My Projects/Android Apps/ArtistApp/AAmail.php",
+		"/C/Users/Tc2r/My Projects/Android Apps/CSpencer/CSEmail.php",
+		"/C/app/BestStatus/com/sofu/social/status/collections/MainActivity.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/R.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/SplashActvitiy.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/AppInitializer.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/async/LoadStatusList.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/dbutil/DatabaseHelper.java",
+		"/C/app/BestStatus/com/sofu/social/status/collections/dbutil/Utils.java",
+		"/C/BestStatus/res/values/strings.xml",
+		"/C/BestStatus/res/values/public.xml",
+		"/C/BestStatus/res/layout/activity_main.xml",
+		"/C/BestStatus/res/layout/activity_splash.xml",
+		"/C/Users/Tc2r/Desktop/50000-dex2jar.jar.src/com/atomic/apps/facebook/statuses/AtomicFacebookStatusListActivity.java",
+		"/C/Users/Tc2r/Desktop/50000-dex2jar.jar.src/com/atomic/apps/facebook/statuses/AtomicFacebookStatusDisplayerActivity.java",
+		"/C/Users/Tc2r/Desktop/50000-dex2jar.jar.src/com/atomic/apps/facebook/statuses/a.java",
+		"/C/Users/Tc2r/My Projects/Android Apps/shoutouts.php",
+		"/C/Users/Tc2r/Desktop/50000-dex2jar.jar.src/com/atomic/apps/facebook/statuses/AtomicFacebookStatusCategoryListActivity.java",
+		"/C/Users/Tc2r/My Projects/Android Apps/CSpencer/CTEmail.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rb",
+			"\"die\"",
+			"ignored",
+			"using",
+			"dist",
+			"complete",
+			"auto_complete",
+			"local",
+			"advance",
+			"push",
+			"load",
+			"browser.loa",
+			"load",
+			"On",
+			"addHttpHeader",
+			"mHttpHeaders",
+			"url",
+			"geo",
+			"loadurl",
+			"browser",
+			"loadurl",
+			" loadurl",
+			" loadurl(",
+			".loadurl",
+			"browser",
+			"mainurl",
+			"webchrome",
+			"MainURL",
+			"getargu",
+			"setargu",
+			"url",
+			"fragment",
+			"settitle",
+			"paramBund",
+			"mAdapter",
+			")){\n",
+			"my_data",
+			" ",
+			"items",
+			"delay",
+			"skip",
+			"evolve",
+			"dum",
+			"snipe",
+			"vapore",
+			"gyar",
+			"recyc",
+			"7552",
+			"3313",
+			"0256",
+			"meow",
+			"meowth",
+			"meO",
+			"meow",
+			"elec",
+			"incen",
+			"use",
+			"ignore",
+			".",
+			"800",
+			"80",
+			"snipe",
+			"snipt",
+			"assets",
+			"f109c",
+			"farming",
+			" 14",
+			" 14 ",
+			"farming(",
+			" 12 ",
+			"12 ",
+			"getnewgame",
+			" print",
+			"howl",
+			"12 ",
+			"checking",
+			"buyitem",
+			"botbuy",
+			"Buy()",
+			"BotBuy",
+			"\tprint",
+			"runtotower",
+			"menu",
+			"attack(",
+			"(attack",
+			"nearenemy",
+			"closeenemy",
+			"closeally",
+			"getdistance",
+			"index local ",
+			"attempt to index local ",
+			"config.recall",
+			"Minion",
+			"ontick",
+			"menu",
+			"towerfocused",
+			"attack(",
+			"tower",
+			"turret",
+			"underturret",
+			"followon",
+			"self.IREADY",
+			"ignite",
+			"getdistance",
+			"farmmode",
+			"autoFarm.enabled",
+			"config.autoFarm.enabled",
+			"autofarm",
+			".damage",
+			".ap",
+			".damage",
+			"seque",
+			"alvl",
+			"printchat",
+			"\tprint",
+			"print",
+			" print",
+			"\tprint",
+			"BuyMode",
+			"AutoBuy_i:OnTick()",
+			"AutoBuy_i",
+			"BuyMode",
+			"Buy",
+			"\tprint",
+			"undert",
+			"undertow",
+			"\tprint(\"",
+			"underturret"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"greed_island",
+			"<SP>",
+			"print",
+			"self.selectedTeammate",
+			"( self.Data",
+			"nearEnemy",
+			" nearEnemy",
+			" self:CastBubbleAlly(",
+			"self.Debug(",
+			" self:Cast(",
+			" self.Data",
+			"self.ts.target",
+			"v",
+			"i",
+			"QREADY",
+			"config",
+			"self.ts.",
+			"self.ts",
+			"  ",
+			"",
+			"config",
+			"myHero",
+			"self.config",
+			"function Proppy:",
+			"config.Misc.FOL_DIST",
+			"self.nearenemy",
+			"is_followally",
+			"_G.PRE_BEFORE_LVL",
+			"_G.LEASH_CC",
+			"_G.LEASH_RANG",
+			"_G.FOL_DIST",
+			"_G.RE_GOLD_AMOUNT",
+			"_G.RE_HEALTH_AMOUNT",
+			"_G.RE_MANA_AMOUNT",
+			"_G.MIN_AT_TOWER",
+			"_G.is_Drawleashcircle",
+			"_G.is_DrawFollowingText",
+			"_G.is_recallwithpartner",
+			"_G.is_recallatgold",
+			"_G.is_recalllowhp",
+			"_G.is_recalllowmp",
+			"_G.is_followhurtally",
+			"_G.is_followallies",
+			"_G.is_followenemies",
+			"_G.is_followminions",
+			"is_followminions",
+			"safetower",
+			"closeally",
+			"hurtally",
+			"closeenemy",
+			"nearrelic",
+			"nearenemy",
+			"ffchamp",
+			"towerattack",
+			"hittingyou",
+			"lastfollow",
+			"enemyturret",
+			"enemyspawn",
+			"allyspawn",
+			"tempfollower",
+			"teletarget",
+			"attacked",
+			"recentrecalltarget",
+			"disfollower",
+			"relictimer",
+			"aatick ",
+			"forcefoltimer",
+			"minleash",
+			"runonce",
+			"startingtime",
+			"recallstarttime",
+			"allyteampos",
+			"v",
+			"for j",
+			"j",
+			"is_goldswitch",
+			"is_goingb",
+			"is_recallsequence",
+			"is_towerfoc",
+			"is._recdetected",
+			"is._towerfoc",
+			"is_partnerrec",
+			"is_forcefollowmode",
+			"is_ForceFollowMode",
+			"TWR_MIN_LIMIT",
+			"PRE_BEFORE_LVL",
+			"LEASH_CC",
+			"LEASH_RANG",
+			"FOL_DIST",
+			"RE_GOLD_AMOUNT",
+			"RE_HEALTH_AMOUNT",
+			"RE_MANA_AMOUNT",
+			"MIN_AT_TOWER",
+			"_recallwithpartner",
+			"_recallatgold",
+			"_recalllowhp",
+			"_recalllowmp",
+			"_followhurtally",
+			"is_RecallWithPartner",
+			"is_RecallAtGold",
+			"is_RecallLowHp",
+			"is_RecallLowMp",
+			"is_FollowHurtAlly",
+			"is_follownemies",
+			"is_followallies",
+			"is_followenemies",
+			"AA_DELAY",
+			"self.FOLLOW_KEY_CODE",
+			"config",
+			"TcFollow",
+			"\t--print",
+			"SmiteSlot",
+			"",
+			"TP_Slot",
+			"mapID",
+			"towerFocused",
+			"LastCheck",
+			"safeTower",
+			"towerAttack",
+			"enemySpawn",
+			"allySpawn",
+			"freedom",
+			"SendChat",
+			"PrintChat",
+			"Smite",
+			"smiteSlot",
+			"",
+			"SendChat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Tc2r/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1694,
+										1695
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 239.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 47.0
+	},
+	"pinned_build_system": "",
+	"project": "codingtemple.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

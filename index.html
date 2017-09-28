@@ -1,0 +1,27 @@
+<!doctype html>
+		<html>
+
+			<head>
+				<link rel="stylesheet" href="style.css">
+				<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+				<script src="app.js"></script>
+			</head>
+			<body ng-app="myApp" ng-controller="myCtrl">
+			<h1> My Wish List </h1>
+
+			<p>I am a Developer/ Programmer who loves to learn.</p>
+			<p>This is a simple application to explore the use of several directives and practice using AngularJs.</p>
+			<input ng-model="newTask">
+			<button ng-click="AddTask()"></button>
+
+			<p style="color: red" ng-if="task.length == 5">Don't you think it's a bit greedy to ask for so much?</p>
+
+			<h3>To Do: </h3>
+
+			<div ng-repeat="task in tasks track by $index">
+				<li>{{task}}</li>
+
+			</div>
+			</body>
+		</html>
+
